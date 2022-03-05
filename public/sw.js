@@ -2,9 +2,9 @@ var cacheName = 'weatherPWA-v1';
 var filesToCache = [
     '/',
     '/public/index.html',
-    '/public/scripts/app.js',
+    '/public/app.js',
     '/scripts/localforage-1.4.0.js',
-    '/public/styles/ud811.css',
+    '/public/ud811.css',
     '/public/images/clear.png',
     '/public/images/cloudy-scattered-showers.png',
     '/public/images/cloudy.png',
