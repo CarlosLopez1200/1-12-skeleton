@@ -1,23 +1,23 @@
 var cacheName = 'weatherPWA-v1';
 var filesToCache = [
     '/',
-    '/public/index.html',
-    '/public/app.js',
+    'index.html',
+    'app.js',
     '/scripts/localforage-1.4.0.js',
-    '/public/ud811.css',
-    '/public/images/clear.png',
-    '/public/images/cloudy-scattered-showers.png',
-    '/public/images/cloudy.png',
-    '/public/images/fog.png',
-    '/public/images/ic_add_white_24px.svg',
-    '/public/images/ic_refresh_white_24px.svg',
-    '/public/images/partly-cloudy.png',
-    '/public/images/rain.png',
-    '/public/images/scattered-showers.png',
-    '/public/images/sleet.png',
-    '/public/images/snow.png',
-    '/public/images/thunderstorm.png',
-    '/public/images/wind.png'
+    'ud811.css',
+    'images/clear.png',
+    'images/cloudy-scattered-showers.png',
+    'images/cloudy.png',
+    'images/fog.png',
+    'images/ic_add_white_24px.svg',
+    'images/ic_refresh_white_24px.svg',
+    'images/partly-cloudy.png',
+    'images/rain.png',
+    'images/scattered-showers.png',
+    'images/sleet.png',
+    'images/snow.png',
+    'images/thunderstorm.png',
+    'images/wind.png'
 ];
 
 /* This service worker installs anda waits to save the entire
